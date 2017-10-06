@@ -1,3 +1,4 @@
+#Batch Gradient Descent
 from numpy import *
 
 def compute_error_for_line_given_points(b,m,points):
