@@ -1,6 +1,6 @@
+__author__ = "vaibhawvipul"
+
 import pandas as pd
-import tensorflow as tf
-import numpy as np
 from numpy import random
 
 dataframe = pd.read_csv("Height_Weight_single_variable_data_101_series_1.0.csv")
